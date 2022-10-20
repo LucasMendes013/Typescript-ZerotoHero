@@ -6,7 +6,7 @@
  * doc referência: https://www.typescriptlang.org/docs/handbook/basic-types.html#unknown
  */
 
-// ==> Exemplo 01: Tipo Unknown
+// ==> Exemplo 01: Tipo Unknownn
 
 let valorVariavel: unknown;
 

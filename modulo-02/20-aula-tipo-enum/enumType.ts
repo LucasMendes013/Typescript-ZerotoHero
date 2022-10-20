@@ -8,6 +8,7 @@
  */
 
 // ==> Exemplo 01: Numeric Enums (Enums Numérico)
+//enum
 
 enum Idioma {
   Portugues,
