@@ -25,7 +25,7 @@ console.log(pessoa1[1]);
 // ==> Exemplo 03 - Outra forma de usar Tuplas em TypeScrit (com labels)
 let pessoa2: [nome: string, posicao: string, idade: number] = ['Glaucia Lemos', 'Cloud Advocate JavaScript', 34];
 
-console.log(pessoa2);
+console.log(pessoa2);//impressao
 
 
 // ==> Exemplo 04 - Usando Tuplas com Spread Operator
