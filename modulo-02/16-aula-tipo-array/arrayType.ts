@@ -29,7 +29,7 @@ console.log(idiomas);
 // ==> Exemplo 04 - Identificar tamanho do array - método 'length'
 
 let idiomas1: Array<string> = ['Português', 'Inglês', 'Espanhol', 'Francês'];
-console.log(idiomas1.length);
+console.log(idiomas1.length); //04
 
 // ==> Exemplo 05 - Exemplo de Array com Spread Operator
 
