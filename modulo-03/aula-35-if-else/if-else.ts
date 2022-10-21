@@ -21,7 +21,7 @@ if (contador < numeroMax) {
 
 console.log(contador);
 
-// ==> Exemplo 02 - Uso do if
+// ==> Exemplo 02 - Uso o if
 
 const permissaoIdadeDirigir = 16;
 
