@@ -27,7 +27,7 @@ const permissaoIdadeDirigir = 16;
 
 if (permissaoIdadeDirigir >= 18) {
   console.log('Você está habilitado para dirigir!')
-}
+} //ok
 
 // ==> Exemplo 03 - Uso do if-else
 
